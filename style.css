@@ -342,7 +342,7 @@ header {
 .stats .avatar-block {
     display: flex;
     flex-wrap: wrap;
-    gap: 16px 14px;
+    gap: 16px;
     margin-top: 26px;
 }
 
