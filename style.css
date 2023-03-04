@@ -581,7 +581,7 @@ footer{
     .stats .sub-title {
         left: 11px;
         position: absolute;
-        bottom: -360px;
+        bottom: 95px;
         color: #fff;
     }
     .stats .sub-title::before {
@@ -667,6 +667,13 @@ footer{
     .active{
         visibility: initial;
         opacity: 1;
+    }
+    .stats .img-block, .stats .info {
+        width: 100%;
+    }
+    .stats .img-block .image {
+        width: 100%;
+
     }
 } 
 
